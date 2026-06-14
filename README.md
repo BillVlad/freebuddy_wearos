@@ -1,8 +1,10 @@
 # FreeBuds WearOS Controller
 
-A lightweight, native, and highly optimized WearOS application for controlling noise cancellation (ANC) and monitoring battery life on **HUAWEI FreeBuds 5i** directly from your smart watch (e.g., Samsung Galaxy Watch 4 Classic).
+A lightweight, native, and highly optimized WearOS application for controlling noise cancellation (ANC) and monitoring battery life on **HUAWEI FreeBuds 5i** directly from your smart watch.
 
 This project is a standalone port inspired by the reverse-engineered Huawei Bluetooth Classic protocol.
+
+This project is a written with AI (specially Gemini)... Ya, imma dumb for coding for Android (I will try to learn Android development, so...)
 
 ---
 
