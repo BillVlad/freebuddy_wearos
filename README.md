@@ -11,10 +11,7 @@ This project is a written with AI (specially Gemini)... Ya, imma dumb for coding
 ## 🌟 Features
 
 - **Bidirectional State Sync:** Displays real-time battery status (Left, Right, Case) and actively synchronizes the ANC mode button highlight with the physical touch controls on your earbuds.
-- **Physical Bezel Scrolling:** Smoothly scroll through the interface using the rotating physical bezel or digital touch ring (fully hardware-accelerated, zero-lag dispatching).
 - **Compact WearOS Tile (Widget):** Quickly switch ANC modes in one tap directly from the watch home screen. Executed asynchronously in the background using extremely efficient `LoadAction` without blinking or launching any foreground activities.
-- **Battery & Performance Optimized:** Implements buffered SPP (Serial Port Profile) socket streams and lightweight reactive state mutations to minimize CPU and battery usage on weak dual-core smartwatch processors.
-- **Pure Dark Theme:** Pure black background tailored for OLED displays to maximize battery life.
 
 ---
 
