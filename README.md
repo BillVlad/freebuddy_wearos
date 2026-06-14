@@ -36,4 +36,4 @@ This project wouldn't be possible without the incredible reverse-engineering and
 
 ## 📝 License
 
-This project is open-source and distributed under the MIT License.
+This project is open-source and distributed under the Apache-2.0 license.
